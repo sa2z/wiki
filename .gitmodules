@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/sa2z/sa2z.github.io
+	branch = master
